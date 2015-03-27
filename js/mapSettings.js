@@ -8,7 +8,7 @@ AmCharts.makeChart("mapDiv", {
     pathToImages: "images/maps/",
     addClassNames: true,
     dataProvider: {
-        map: "indiaHigh",
+        map: "worldLow",
         linkToObject: "bangalore",
         images: [{
             id: "bangalore",
@@ -18,6 +18,7 @@ AmCharts.makeChart("mapDiv", {
             latitude: 12.9715990,
             longitude: 77.5945630,
             scale: 1.1,
+            zoomLevel: 5.0,
 
             lines: [{
                 latitudes: [12.9715990, 28.6139390],
@@ -32,6 +33,7 @@ AmCharts.makeChart("mapDiv", {
             latitude: 28.6139390,
             longitude: 77.2090210,
             scale: 1.1,
+            zoomLevel: 5.0,
 
             lines: [{
                 latitudes: [28.6139390, 12.9715990],

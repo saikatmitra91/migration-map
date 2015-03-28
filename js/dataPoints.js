@@ -122,7 +122,7 @@ var datapoints = [{
         "longitudes": ["72.825833", "77.733333"],
         "latitudes": ["18.975", "11.35"]
     }, {
-        "doctor_city": "dehra dun",
+        "doctor_city": "dehradun",
         "balloonText": "1",
         "longitudes": ["72.825833", "78.033333"],
         "latitudes": ["18.975", "30.316667"]
@@ -235,7 +235,7 @@ var datapoints = [{
     "longitude": "85.516667",
     "svgPath": targetSVG,
     "latitude": "25.183333",
-    "id": "bihar sharif"
+    "id": "biharsharif"
 }, {
     "zoomLevel": 5.0,
     "scale": 0.6,
@@ -712,7 +712,7 @@ var datapoints = [{
         "longitudes": ["77.583333", "72.616667"],
         "latitudes": ["12.983333", "23.033333"]
     }, {
-        "doctor_city": "dehra dun",
+        "doctor_city": "dehradun",
         "balloonText": "1",
         "longitudes": ["77.583333", "78.033333"],
         "latitudes": ["12.983333", "30.316667"]
@@ -812,7 +812,7 @@ var datapoints = [{
         "longitudes": ["73.866667", "78.474444"],
         "latitudes": ["18.533333", "17.375278"]
     }, {
-        "doctor_city": "dehra dun",
+        "doctor_city": "dehradun",
         "balloonText": "1",
         "longitudes": ["73.866667", "78.033333"],
         "latitudes": ["18.533333", "30.316667"]
@@ -1124,7 +1124,7 @@ var datapoints = [{
 }, {
     "zoomLevel": 5.0,
     "scale": 0.6,
-    "title": "dehra dun",
+    "title": "dehradun",
     "color": "#000000",
     "lines": [{
         "doctor_city": "new delhi",
@@ -1135,7 +1135,7 @@ var datapoints = [{
     "longitude": "78.033333",
     "svgPath": targetSVG,
     "latitude": "30.316667",
-    "id": "dehra dun"
+    "id": "dehradun"
 }, {
     "zoomLevel": 5.0,
     "scale": 0.6,
@@ -1525,7 +1525,7 @@ var datapoints = [{
     "longitude": "77.2",
     "svgPath": targetSVG,
     "latitude": "28.6",
-    "id": "new delhi"
+    "id": "newdelhi"
 }, {
     "zoomLevel": 5.0,
     "scale": 0.6,

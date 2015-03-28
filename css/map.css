@@ -28,9 +28,10 @@ body {
     display: none;
 }
 
-.top-cities-wrapper{
+.top-cities-wrapper {
     /*padding:10px;*/
 }
+
 .city-name {
     margin: 0 0 10px 0;
     background-color: #CC0000;
@@ -39,20 +40,21 @@ body {
     text-align: center;
 }
 
-.top-city-list{
+.top-city-list {
     max-height: 150px;
     overflow-x: scroll;
     text-transform: capitalize;
 }
 
-.title{
+.title {
     width: 50%;
-  display: inline-block;
+    display: inline-block;
+    font-weight: bold;
 }
 
-.top-cities-wrapper > .title{
-      border-bottom: 1px solid #CC0000;
-      text-transform: capitalize;
+.top-cities-wrapper > .title {
+    border-bottom: 1px solid #CC0000;
+    text-transform: capitalize;
 }
 
 .amcharts-map-line {
